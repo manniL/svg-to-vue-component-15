@@ -1,0 +1,19 @@
+{
+  "name": "svg-to-vue-component-15",
+  "version": "1.0.0",
+  "description": "https://github.com/egoist/svg-to-vue-component/issues/15",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "nuxt": "^2.3.1",
+    "nuxt-svg-loader": "latest"
+  },
+  "keywords": []
+}
